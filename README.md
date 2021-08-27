@@ -1,2 +1,2 @@
 # alpha
-alpha is a test repository for ram
+alpha is a test repository for rdm
